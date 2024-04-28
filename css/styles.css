@@ -33,9 +33,24 @@ body {
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.navli:hover{
+.navli .list:hover{
     color: #404bbf;
 }
-.navli:focus{
+.navli .list:focus{
     color:#404bbf;
+}
+.adres{
+    font-style: normal;
+}
+.adres-link {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.adres-link:hover {
+    color: #404bbf;
+}
+.adres-link:focus {
+    color: #404bbf;
 }

@@ -61,7 +61,7 @@ body {
 .section-main {
     background-color: #2e2f42;
 }
-.h1css {
+.hone-css {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -83,27 +83,27 @@ body {
 .button:focus {
     background-color: #404BBF;
 }
-.h2-css {
+.htwo-css {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.h3p-css {
+.hthreep-css {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.h3-css {
+.hthree-css {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.h2-css2 {
+.htwo-csstwo {
     background-color: #F4F4FD;
     font-size: 36px;
     line-height: 1.11;
@@ -111,4 +111,9 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+}
+.footer-text{
+    line-height: 1.15;
+    color: #F4F4FD;
+    letter-spacing: 0.02;
 }

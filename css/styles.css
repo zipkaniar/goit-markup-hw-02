@@ -19,8 +19,23 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #405ae5;
+    color: #4d5ae5;
+    text-decoration: none;
 }
 .span {
     color: #2E2F42;
+}
+
+.header-ul .list .etiket {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.header-ul .list .etiket:hover {
+    color: #404bbf;
+}
+.header-ul .list .etiket:focus {
+    color: #404bbf;
 }

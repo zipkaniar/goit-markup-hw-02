@@ -36,10 +36,10 @@ body {
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.navli .list:hover{
+.navli:hover{
     color: #404bbf;
 }
-.navli .list:focus{
+.navli:focus{
     color:#404bbf;
 }
 .adres{

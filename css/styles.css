@@ -113,7 +113,13 @@ body {
     color: #2e2f42;
 }
 .footer-text{
-    line-height: 1.15;
+    line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02;
+}
+.footerone {
+    background-color: #2e2f42;
+}
+.spanfooter {
+    color: #F4F4FD;
 }

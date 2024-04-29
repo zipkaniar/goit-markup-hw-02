@@ -115,6 +115,12 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
+.section-three {
+    background-color: #F4F4FD;
+}
+.section-threeli {
+    background-color: #FFFFFF;
+}
 .footer-text{
     line-height: 1.5;
     color: #F4F4FD;
